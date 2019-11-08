@@ -1,5 +1,5 @@
 {
-  "name": "@4awpawz/eslint-config",
+  "name": "@4awpawz/eslint-standard-config",
   "version": "1.0.0",
   "description": "Shareable Eslint Config",
   "main": "index.js",
