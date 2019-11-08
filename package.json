@@ -1,0 +1,15 @@
+{
+  "name": "@4awpawz/eslint-config",
+  "version": "1.0.0",
+  "description": "Shareable Eslint Config",
+  "main": "index.js",
+  "peerDependencies": {
+      "eslint": ">= 6.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["eslint", "eslintconfig"],
+  "author": "@4awpawz",
+  "license": "MIT"
+}
