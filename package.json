@@ -1,6 +1,6 @@
 {
   "name": "@4awpawz/eslint-config-4awpawzconfig",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shareable Eslint Config",
   "main": "index.js",
   "scripts": {
