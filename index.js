@@ -1,5 +1,5 @@
 module.exports = {
-    "extends": "standard",
+    "extends": "eslint-config-standard",
     "parserOptions": {
         "sourceType": "module"
     },
