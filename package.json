@@ -1,6 +1,6 @@
 {
   "name": "@4awpawz/eslint-config-4awpawzconfig",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shareable Eslint Config",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   ],
   "author": "@4awpawz",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^6.6.0",
     "eslint-config-standard": ">= 14",
     "eslint-plugin-import": "^2.18.2",
